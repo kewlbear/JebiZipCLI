@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "JebiZip",
+        "repositoryURL": "https://github.com/kewlbear/JebiZip.git",
+        "state": {
+          "branch": null,
+          "revision": "8e95c580f334e98616c01c1325cfd546d4da6694",
+          "version": "1.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
